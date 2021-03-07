@@ -1,1 +1,5 @@
-# 1030516011_BS436_WebProgramlama
+Öğrenci Numarası: 1030516011
+
+Öğrenci Adı: Cihat YILDIZ
+
+Ders Adı: BS436 Web Programlama
